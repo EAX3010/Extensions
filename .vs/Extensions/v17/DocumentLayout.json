@@ -1,0 +1,304 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Work\\Sources\\NetCore\\Extensions\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{215F5FEB-518C-53C5-1A34-E23DAFBA18A6}|Extensions.csproj|d:\\work\\sources\\netcore\\extensions\\src\\bitvector32.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{215F5FEB-518C-53C5-1A34-E23DAFBA18A6}|Extensions.csproj|solutionrelative:src\\bitvector32.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{215F5FEB-518C-53C5-1A34-E23DAFBA18A6}|Extensions.csproj|d:\\work\\sources\\netcore\\extensions\\src\\threading\\staticpool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{215F5FEB-518C-53C5-1A34-E23DAFBA18A6}|Extensions.csproj|solutionrelative:src\\threading\\staticpool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{215F5FEB-518C-53C5-1A34-E23DAFBA18A6}|Extensions.csproj|d:\\work\\sources\\netcore\\extensions\\src\\threading\\nativetime32.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{215F5FEB-518C-53C5-1A34-E23DAFBA18A6}|Extensions.csproj|solutionrelative:src\\threading\\nativetime32.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{215F5FEB-518C-53C5-1A34-E23DAFBA18A6}|Extensions.csproj|d:\\work\\sources\\netcore\\extensions\\src\\threading\\lazydelegate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{215F5FEB-518C-53C5-1A34-E23DAFBA18A6}|Extensions.csproj|solutionrelative:src\\threading\\lazydelegate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{215F5FEB-518C-53C5-1A34-E23DAFBA18A6}|Extensions.csproj|d:\\work\\sources\\netcore\\extensions\\src\\threading\\isubscription.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{215F5FEB-518C-53C5-1A34-E23DAFBA18A6}|Extensions.csproj|solutionrelative:src\\threading\\isubscription.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{215F5FEB-518C-53C5-1A34-E23DAFBA18A6}|Extensions.csproj|d:\\work\\sources\\netcore\\extensions\\src\\threading\\generic\\lazydelegate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{215F5FEB-518C-53C5-1A34-E23DAFBA18A6}|Extensions.csproj|solutionrelative:src\\threading\\generic\\lazydelegate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{215F5FEB-518C-53C5-1A34-E23DAFBA18A6}|Extensions.csproj|d:\\work\\sources\\netcore\\extensions\\src\\threading\\generic\\subscription.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{215F5FEB-518C-53C5-1A34-E23DAFBA18A6}|Extensions.csproj|solutionrelative:src\\threading\\generic\\subscription.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{215F5FEB-518C-53C5-1A34-E23DAFBA18A6}|Extensions.csproj|d:\\work\\sources\\netcore\\extensions\\src\\threading\\generic\\timerrule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{215F5FEB-518C-53C5-1A34-E23DAFBA18A6}|Extensions.csproj|solutionrelative:src\\threading\\generic\\timerrule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{215F5FEB-518C-53C5-1A34-E23DAFBA18A6}|Extensions.csproj|d:\\work\\sources\\netcore\\extensions\\src\\threading\\subscription.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{215F5FEB-518C-53C5-1A34-E23DAFBA18A6}|Extensions.csproj|solutionrelative:src\\threading\\subscription.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{215F5FEB-518C-53C5-1A34-E23DAFBA18A6}|Extensions.csproj|d:\\work\\sources\\netcore\\extensions\\src\\threading\\timerrule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{215F5FEB-518C-53C5-1A34-E23DAFBA18A6}|Extensions.csproj|solutionrelative:src\\threading\\timerrule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{215F5FEB-518C-53C5-1A34-E23DAFBA18A6}|Extensions.csproj|d:\\work\\sources\\netcore\\extensions\\src\\threadgroup\\threadbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{215F5FEB-518C-53C5-1A34-E23DAFBA18A6}|Extensions.csproj|solutionrelative:src\\threadgroup\\threadbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{215F5FEB-518C-53C5-1A34-E23DAFBA18A6}|Extensions.csproj|d:\\work\\sources\\netcore\\extensions\\src\\threadgroup\\threaditem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{215F5FEB-518C-53C5-1A34-E23DAFBA18A6}|Extensions.csproj|solutionrelative:src\\threadgroup\\threaditem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 20,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:138:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:139:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:140:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:141:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:142:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:137:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:136:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BitVector32.cs",
+              "DocumentMoniker": "D:\\Work\\Sources\\NetCore\\Extensions\\src\\BitVector32.cs",
+              "RelativeDocumentMoniker": "src\\BitVector32.cs",
+              "ToolTip": "D:\\Work\\Sources\\NetCore\\Extensions\\src\\BitVector32.cs",
+              "RelativeToolTip": "src\\BitVector32.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T14:05:42.674Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ISubscription.cs",
+              "DocumentMoniker": "D:\\Work\\Sources\\NetCore\\Extensions\\src\\Threading\\ISubscription.cs",
+              "RelativeDocumentMoniker": "src\\Threading\\ISubscription.cs",
+              "ToolTip": "D:\\Work\\Sources\\NetCore\\Extensions\\src\\Threading\\ISubscription.cs",
+              "RelativeToolTip": "src\\Threading\\ISubscription.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T14:00:16.906Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LazyDelegate.cs",
+              "DocumentMoniker": "D:\\Work\\Sources\\NetCore\\Extensions\\src\\Threading\\Generic\\LazyDelegate.cs",
+              "RelativeDocumentMoniker": "src\\Threading\\Generic\\LazyDelegate.cs",
+              "ToolTip": "D:\\Work\\Sources\\NetCore\\Extensions\\src\\Threading\\Generic\\LazyDelegate.cs",
+              "RelativeToolTip": "src\\Threading\\Generic\\LazyDelegate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T14:00:15.152Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Subscription.cs",
+              "DocumentMoniker": "D:\\Work\\Sources\\NetCore\\Extensions\\src\\Threading\\Generic\\Subscription.cs",
+              "RelativeDocumentMoniker": "src\\Threading\\Generic\\Subscription.cs",
+              "ToolTip": "D:\\Work\\Sources\\NetCore\\Extensions\\src\\Threading\\Generic\\Subscription.cs",
+              "RelativeToolTip": "src\\Threading\\Generic\\Subscription.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T14:00:14.624Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TimerRule.cs",
+              "DocumentMoniker": "D:\\Work\\Sources\\NetCore\\Extensions\\src\\Threading\\Generic\\TimerRule.cs",
+              "RelativeDocumentMoniker": "src\\Threading\\Generic\\TimerRule.cs",
+              "ToolTip": "D:\\Work\\Sources\\NetCore\\Extensions\\src\\Threading\\Generic\\TimerRule.cs",
+              "RelativeToolTip": "src\\Threading\\Generic\\TimerRule.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T14:00:13.809Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LazyDelegate.cs",
+              "DocumentMoniker": "D:\\Work\\Sources\\NetCore\\Extensions\\src\\Threading\\LazyDelegate.cs",
+              "RelativeDocumentMoniker": "src\\Threading\\LazyDelegate.cs",
+              "ToolTip": "D:\\Work\\Sources\\NetCore\\Extensions\\src\\Threading\\LazyDelegate.cs",
+              "RelativeToolTip": "src\\Threading\\LazyDelegate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T14:00:12.552Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NativeTime32.cs",
+              "DocumentMoniker": "D:\\Work\\Sources\\NetCore\\Extensions\\src\\Threading\\NativeTime32.cs",
+              "RelativeDocumentMoniker": "src\\Threading\\NativeTime32.cs",
+              "ToolTip": "D:\\Work\\Sources\\NetCore\\Extensions\\src\\Threading\\NativeTime32.cs",
+              "RelativeToolTip": "src\\Threading\\NativeTime32.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T14:00:11.835Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StaticPool.cs",
+              "DocumentMoniker": "D:\\Work\\Sources\\NetCore\\Extensions\\src\\Threading\\StaticPool.cs",
+              "RelativeDocumentMoniker": "src\\Threading\\StaticPool.cs",
+              "ToolTip": "D:\\Work\\Sources\\NetCore\\Extensions\\src\\Threading\\StaticPool.cs",
+              "RelativeToolTip": "src\\Threading\\StaticPool.cs",
+              "ViewState": "AgIAAMoAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T14:00:11.328Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Subscription.cs",
+              "DocumentMoniker": "D:\\Work\\Sources\\NetCore\\Extensions\\src\\Threading\\Subscription.cs",
+              "RelativeDocumentMoniker": "src\\Threading\\Subscription.cs",
+              "ToolTip": "D:\\Work\\Sources\\NetCore\\Extensions\\src\\Threading\\Subscription.cs",
+              "RelativeToolTip": "src\\Threading\\Subscription.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T14:00:10.815Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ThreadItem.cs",
+              "DocumentMoniker": "D:\\Work\\Sources\\NetCore\\Extensions\\src\\ThreadGroup\\ThreadItem.cs",
+              "RelativeDocumentMoniker": "src\\ThreadGroup\\ThreadItem.cs",
+              "ToolTip": "D:\\Work\\Sources\\NetCore\\Extensions\\src\\ThreadGroup\\ThreadItem.cs",
+              "RelativeToolTip": "src\\ThreadGroup\\ThreadItem.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAwwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T14:00:02.699Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TimerRule.cs",
+              "DocumentMoniker": "D:\\Work\\Sources\\NetCore\\Extensions\\src\\Threading\\TimerRule.cs",
+              "RelativeDocumentMoniker": "src\\Threading\\TimerRule.cs",
+              "ToolTip": "D:\\Work\\Sources\\NetCore\\Extensions\\src\\Threading\\TimerRule.cs",
+              "RelativeToolTip": "src\\Threading\\TimerRule.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T14:00:01.554Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ThreadBase.cs",
+              "DocumentMoniker": "D:\\Work\\Sources\\NetCore\\Extensions\\src\\ThreadGroup\\ThreadBase.cs",
+              "RelativeDocumentMoniker": "src\\ThreadGroup\\ThreadBase.cs",
+              "ToolTip": "D:\\Work\\Sources\\NetCore\\Extensions\\src\\ThreadGroup\\ThreadBase.cs",
+              "RelativeToolTip": "src\\ThreadGroup\\ThreadBase.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAcwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T14:00:00.199Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

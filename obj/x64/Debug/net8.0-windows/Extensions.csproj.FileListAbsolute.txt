@@ -1,0 +1,12 @@
+C:\Users\x3010\OneDrive\Desktop\LordsSource\LordsSource\Extensions\bin\x64\Debug\net8.0-windows\Extensions.deps.json
+C:\Users\x3010\OneDrive\Desktop\LordsSource\LordsSource\Extensions\bin\x64\Debug\net8.0-windows\Extensions.dll
+C:\Users\x3010\OneDrive\Desktop\LordsSource\LordsSource\Extensions\bin\x64\Debug\net8.0-windows\Extensions.pdb
+C:\Users\x3010\OneDrive\Desktop\LordsSource\LordsSource\Extensions\obj\x64\Debug\net8.0-windows\Extensions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\x3010\OneDrive\Desktop\LordsSource\LordsSource\Extensions\obj\x64\Debug\net8.0-windows\Extensions.AssemblyInfoInputs.cache
+C:\Users\x3010\OneDrive\Desktop\LordsSource\LordsSource\Extensions\obj\x64\Debug\net8.0-windows\Extensions.AssemblyInfo.cs
+C:\Users\x3010\OneDrive\Desktop\LordsSource\LordsSource\Extensions\obj\x64\Debug\net8.0-windows\Extensions.csproj.CoreCompileInputs.cache
+C:\Users\x3010\OneDrive\Desktop\LordsSource\LordsSource\Extensions\obj\x64\Debug\net8.0-windows\Extensions.sourcelink.json
+C:\Users\x3010\OneDrive\Desktop\LordsSource\LordsSource\Extensions\obj\x64\Debug\net8.0-windows\Extensions.dll
+C:\Users\x3010\OneDrive\Desktop\LordsSource\LordsSource\Extensions\obj\x64\Debug\net8.0-windows\refint\Extensions.dll
+C:\Users\x3010\OneDrive\Desktop\LordsSource\LordsSource\Extensions\obj\x64\Debug\net8.0-windows\Extensions.pdb
+C:\Users\x3010\OneDrive\Desktop\LordsSource\LordsSource\Extensions\obj\x64\Debug\net8.0-windows\ref\Extensions.dll
